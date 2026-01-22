@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=blunterdecosta123" alt="blunterdecosta123" /></a> </p>
 
-- 🌱 I’m currently learning **Pytorch,Keras,Tensorflow**
+- 🌱 I’m currently learning **Generative AI,FastAPI,Docker**
 
 - 📫 How to reach me **singhpran15@gmail.com**
 
